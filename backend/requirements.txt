@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-cors
+psycopg2-binary
+torch
+transformers
+pillow
+opencv-python-headless
+webcolors
